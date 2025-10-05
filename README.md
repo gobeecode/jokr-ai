@@ -31,4 +31,4 @@ Joke telling AI assistant developed using python and large language models (LLMS
   ```
 - Enter the topic to tell the joke on. Default: any.
 - By default, the assistant uses ollama model and llama3.2 for generating a joke.
-- Wait for a few seconds for the brochure to be created.
+- Wait for a few seconds for the joke to be generated.
